@@ -1,0 +1,81 @@
+Name;Classification;Height;Weight;Capture Rate;Type
+*001*Bulbasaur;Seed Pokémon;0.7m;6.9kg;45;grass, poison
+*002*Ivysaur;Seed Pokémon;1m;13kg;45;grass, poison
+*003*Venusaur;Seed Pokémon;2m;100kg;45;grass, poison
+*004*Charmander;Lizard Pokémon;0.6m;8.5kg;45;grass, poison, grass, poison
+*005*Charmeleon;Flame Pokémon;1.1m;19kg;45;fire
+*006*Charizard;Flame Pokémon;1.7m;90.5kg;45;fire
+*007*Squirtle;Tiny Turtle Pokémon;0.5m;9kg;45;fire, flying, fire, dragon, fire, flying
+*008*Wartortle;Turtle Pokémon;1m;22.5kg;45;water
+*009*Blastoise;Shellfish Pokémon;1.6m;85.5kg;45;water
+*010*Caterpie;Worm Pokémon;0.3m;2.9kg;255;water, water
+*011*Metapod;Cocoon Pokémon;0.7m;9.9kg;120;bug
+*012*Butterfree;Butterfly Pokémon;1.1m;32kg;45;bug
+*013*Weedle;Hairy Pokémon;0.3m;3.2kg;255;bug, flying
+*014*Kakuna;Cocoon Pokémon;0.6m;10kg;120;bug, poison
+*015*Beedrill;Poison Bee Pokémon;1m;29.5kg;45;bug, poison
+*016*Pidgey;Tiny Bird Pokémon;0.3m;1.8kg;255;bug, poison, bug, poison
+*017*Pidgeotto;Bird Pokémon;1.1m;30kg;120;normal, flying
+*018*Pidgeot;Bird Pokémon;1.5m;39.5kg;45;normal, flying
+*019*Rattata;Mouse Pokémon;0.3m / 0.3m;3.5kg / 3.8kg;255;normal, flying, normal, flying
+*020*Raticate;Mouse Pokémon;0.7m / 0.7m;18.5kg / 25.5kg;127;normal, dark, normal
+*021*Spearow;Tiny Bird Pokémon;0.3m;2kg;255;normal, dark, normal
+*022*Fearow;Beak Pokémon;1.2m;38kg;90;normal, flying
+*023*Ekans;Snake Pokémon;2m;6.9kg;255;normal, flying
+*024*Arbok;Cobra Pokémon;3.5m;65kg;90;poison
+*025*Pikachu;Mouse Pokémon;0.4m;6kg;190;poison
+*026*Raichu;Mouse Pokémon;0.8m / 0.7m;30kg / 21kg;75;electric
+*027*Sandshrew;Mouse Pokémon;0.6m / 0.7m;12kg / 40kg;255;electric, electric, psychic
+*028*Sandslash;Mouse Pokémon;1m / 1.2m;29.5kg / 55kg;90;ground, ice, steel
+*029*Nidoran*;Poison Pin Pokémon;0.4m;7kg;235;ground, ice, steel
+*030*Nidorina;Poison Pin Pokémon;0.8m;20kg;120;poison
+*031*Nidoqueen;Drill Pokémon;1.3m;60kg;45;poison
+*032*Nidoran*;Poison Pin Pokémon;0.5m;9kg;235;poison, ground
+*033*Nidorino;Poison Pin Pokémon;0.9m;19.5kg;120;poison
+*034*Nidoking;Drill Pokémon;1.4m;62kg;45;poison
+*035*Clefairy;Fairy Pokémon;0.6m;7.5kg;150;poison, ground
+*036*Clefable;Fairy Pokémon;1.3m;40kg;25;fairy
+*037*Vulpix;Fox Pokémon;0.6m / 0.6m;9.9kg / 9.9kg;190;fairy
+*038*Ninetales;Fox Pokémon;1.1m / 1.1m;19.9kg / 19.9kg;75;fire, ice
+*039*Jigglypuff;Balloon Pokémon;0.5m;5.5kg;170;fire, ice, fairy
+*040*Wigglytuff;Balloon Pokémon;1m;12kg;50;normal, fairy
+*041*Zubat;Bat Pokémon;0.8m;7.5kg;255;normal, fairy
+*042*Golbat;Bat Pokémon;1.6m;55kg;90;poison, flying
+*043*Oddish;Weed Pokémon;0.5m;5.4kg;255;poison, flying
+*044*Gloom;Weed Pokémon;0.8m;8.6kg;120;grass, poison
+*045*Vileplume;Flower Pokémon;1.2m;18.6kg;45;grass, poison
+*046*Paras;Mushroom Pokémon;0.3m;5.4kg;190;grass, poison
+*047*Parasect;Mushroom Pokémon;1m;29.5kg;75;bug, grass
+*048*Venonat;Insect Pokémon;1m;30kg;190;bug, grass
+*049*Venomoth;Poison Moth Pokémon;1.5m;12.5kg;75;bug, poison
+*050*Diglett;Mole Pokémon;0.2m / 0.2m;0.8kg / 1kg;255;bug, poison
+*051*Dugtrio;Mole Pokémon;0.7m / 0.7m;33.3kg / 66.6kg;50;ground, ground, steel
+*052*Meowth;Scratch Cat Pokémon;0.4m / 0.4m;4.2kg / 4.2kg;255;ground, ground, steel
+*053*Persian;Classy Cat Pokémon;1m / 1.1m;32kg / 33kg;90;normal, dark
+*054*Psyduck;Duck Pokémon;0.8m;19.6kg;190;normal, dark
+*055*Golduck;Duck Pokémon;1.7m;76.6kg;75;water
+*056*Mankey;Pig Monkey Pokémon;0.5m;28kg;190;water
+*057*Primeape;Pig Monkey Pokémon;1m;32kg;75;fighting
+*058*Growlithe;Puppy Pokémon;0.7m;19kg;190;fighting
+*059*Arcanine;Legendary Pokémon;1.9m;155kg;75;fire
+*060*Poliwag;Tadpole Pokémon;0.6m;12.4kg;255;fire
+*061*Poliwhirl;Tadpole Pokémon;1m;20kg;120;water
+*062*Poliwrath;Tadpole Pokémon;1.3m;54kg;45;water
+*063*Abra;Psi Pokémon;0.9m;19.5kg;200;water, fighting
+*064*Kadabra;Psi Pokémon;1.3m;56.5kg;100;psychic
+*065*Alakazam;Psi Pokémon;1.5m;48kg;50;psychic
+*066*Machop;Superpower Pokémon;0.8m;19.5kg;180;psychic, psychic
+*067*Machoke;Superpower Pokémon;1.5m;70.5kg;90;fighting
+*068*Machamp;Superpower Pokémon;1.6m;130kg;45;fighting
+*069*Bellsprout;Flower Pokémon;0.7m;4kg;255;fighting
+*070*Weepinbell;Flycatcher Pokémon;1m;6.4kg;120;grass, poison
+*071*Victreebel;Flycatcher Pokémon;1.7m;15.5kg;45;grass, poison
+*072*Tentacool;Jellyfish Pokémon;0.9m;45.5kg;190;grass, poison
+*073*Tentacruel;Jellyfish Pokémon;1.6m;55kg;60;water, poison
+*074*Geodude;Rock Pokémon;0.4m / 0.4m;20kg / 20.3kg;255;water, poison
+*075*Graveler;Rock Pokémon;1m / 1m;105kg / 110kg;120;rock, ground, rock, electric
+*076*Golem;Megaton Pokémon;1.4m / 1.7m;300kg / 316kg;45;rock, ground, rock, electric
+*077*Ponyta;Fire Horse Pokémon;1m;30kg;190;rock, ground, rock, electric
+*078*Rapidash;Fire Horse Pokémon;1.7m;95kg;60;fire
+*079*Slowpoke;Dopey Pokémon;1.2m;36kg;190;fire
+*080*Slowbro;Hermit Crab Pokémon;1.6m;78.5kg;75;water, psychic
